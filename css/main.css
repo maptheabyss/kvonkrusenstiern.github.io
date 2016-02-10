@@ -6,6 +6,11 @@ header {
     text-align: center;
 }
 
+img {
+    max-width: 100%;
+    heigh: auto;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
