@@ -4,11 +4,14 @@ body {
 }
 header {
     text-align: center;
+    font-family: 'open sans', sans-serif;
+    color: #ff4411;
+    font-size: 48px;
 }
 
 img {
     max-width: 100%;
-    heigh: auto;
+    height: auto;
 }
 
 nav ul, footer ul {
